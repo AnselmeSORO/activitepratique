@@ -13,6 +13,10 @@ characters = [
     "casper",
     "le chat potté",
     "Kirikou"
+    "sipirou"
+    "tom"
+    "jerry"
+    "naruto"
 ]
 
 def get_random_quote():
